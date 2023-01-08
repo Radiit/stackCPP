@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669555184 source:d:\code\c++\tp\tp 10\tp 10\main.cpp
+	<iostream>
+	"header.h"
+
+1669552504 source:d:\code\c++\tp\tp 10\tp 10\stack.cpp
+	"header.h"
+
+1669552527 d:\code\c++\tp\tp 10\tp 10\header.h
+	<iostream>
+
